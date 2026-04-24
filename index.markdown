@@ -41,4 +41,5 @@ title: Caladrius Health.AI
   <h1>Caladrius Health.AI</h1>
   <a href="/caladrius-homepage.html">Homepage — Version 1</a>
   <a href="/caladrius-homepage-v2.html">Homepage — Version 2</a>
+  <a href="/blog/">Blog</a>
 </div>
